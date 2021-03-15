@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="Number_01">Number 01</string>
+    <string name="Number_02">Number 02</string>
+    <string name="lplSum">SUM</string>
+    <string name="btnplus" />
+    <string name="btnSub">-</string>
+    <string name="btnmul">*</string>
+    <string name="btndiv">/</string>
+</resources>
